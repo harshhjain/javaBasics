@@ -14,7 +14,8 @@ git remote set-head origin -a
 
 =============================================
 
-Local to GitHub: 
+## Local to GitHub: 
+
 git pull orgin
 
 --Do the changes
